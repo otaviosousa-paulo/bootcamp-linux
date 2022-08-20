@@ -28,5 +28,4 @@ cd linux-site-dio-main
 
 echo  "Copiando arquivos para pasta do apache"
 
-cp - R * /var/www/html
-
+cp - R * /var/www/html/
